@@ -1,0 +1,21 @@
+
+@font-face{
+    font-family: 'Ralewa-Boldy'; 
+    src:url(../fon/Raleway-Bold.ttf)  
+   }
+   
+   @font-face{
+       font-family:'Raleway-Light' ;
+       src: url(../fon/Raleway-Light.ttf);
+   }
+   
+   @font-face{
+       font-family:'Raleway-Regular' ;
+       src: url(../fon/Raleway-Regular.ttf);
+   }
+   
+   
+   @font-face{
+       font-family: 'Raleway-Thin';
+       src: url(../fon/Raleway-Thin.ttf);
+   }
